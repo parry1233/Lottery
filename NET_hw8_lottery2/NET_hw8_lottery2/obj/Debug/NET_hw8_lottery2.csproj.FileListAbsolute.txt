@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\NET_hw8_lottery2\NET_hw8_lottery2\bin\Debug\NET_hw8_lottery2.exe.config
+C:\Users\USER\source\repos\NET_hw8_lottery2\NET_hw8_lottery2\bin\Debug\NET_hw8_lottery2.exe
+C:\Users\USER\source\repos\NET_hw8_lottery2\NET_hw8_lottery2\bin\Debug\NET_hw8_lottery2.pdb
+C:\Users\USER\source\repos\NET_hw8_lottery2\NET_hw8_lottery2\obj\Debug\NET_hw8_lottery2.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\NET_hw8_lottery2\NET_hw8_lottery2\obj\Debug\NET_hw8_lottery2.Form1.resources
+C:\Users\USER\source\repos\NET_hw8_lottery2\NET_hw8_lottery2\obj\Debug\NET_hw8_lottery2.Properties.Resources.resources
+C:\Users\USER\source\repos\NET_hw8_lottery2\NET_hw8_lottery2\obj\Debug\NET_hw8_lottery2.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\NET_hw8_lottery2\NET_hw8_lottery2\obj\Debug\NET_hw8_lottery2.exe
+C:\Users\USER\source\repos\NET_hw8_lottery2\NET_hw8_lottery2\obj\Debug\NET_hw8_lottery2.pdb
